@@ -1,2 +1,17 @@
-source:      _source
 destination: _site
+
+defaults:
+-
+  scope:
+    path: ""
+    type: "post"
+  values:
+    layout: "my-site"
+-
+  scope:
+    path: "projects"
+    type: "page"
+  values:
+    layout: "project"
+    author: "Devin Villegas"
+    category: "project"
