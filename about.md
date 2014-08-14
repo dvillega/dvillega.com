@@ -14,7 +14,7 @@ About This Site
 ===============
 
 This site is built using the [Jekyll](http://github.com/mojombo/jekyll) library
-and hosted on [GitHub](http://github.com/).  
+and hosted on [GitHub](http://github.com/).
 
 The source code used to create
 this library is [publicly available on GitHub](http://github.com/dvillega/dvillega.github.com)
