@@ -1,5 +1,9 @@
 destination: _site
 
+kramdown:
+  input: GFM
+
+
 defaults:
 -
   scope:
