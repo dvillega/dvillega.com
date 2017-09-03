@@ -4,6 +4,8 @@ You can find this site at [dvillega.com](https://dvillega.com).
 
 It is built with [Hugo](https://gohugo.io/), using the [goa theme](https://themes.gohugo.io/hugo-goa/), and [deployed to S3](https://lustforge.com/2016/02/27/hosting-hugo-on-aws/).
 
+[Here](https://gopherize.me) to create the gopher. Favicon generated [here](http://www.favicomatic.com/).
+
 ## Potential gotchas
 
 I ran into a few problems when setting this up (2017-09-02).
