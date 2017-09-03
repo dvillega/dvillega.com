@@ -1,0 +1,62 @@
+## Basic Configuration
+
+baseurl = "https://dvillega.com/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Devin Villegas"
+title = "Thoughts and such"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "UA-105814714-1"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Devin Villegas"
+intro = "People, Computers, Whisky"
+description = "Software Development @lucid_hq. <br /> Probably dressing up like an idiot in NOLA."
+authorimage = "monocle.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Devin's Personal Site"
+keywords = "golang,devops,infrastructure,data,machine learning,blog,developer"
+
+## Social Accounts
+[params.social]
+github = "dvillega"
+# instagram = "<username>"
+linkedin = "devin-villegas-8348b77"
+twitter = "enrual"
+# facebook = "<username>"
+# google = "<username>"
+# stackoverflow = "<username>"
+email = "dvillega@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Devin Villegas. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
