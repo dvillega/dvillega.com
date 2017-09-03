@@ -4,6 +4,8 @@ date: "2017-09-02T22:55:05-05:00"
 draft: false
 slug: ""
 title: "About me:"
+tags: [""]
+categories: [""]
 
 showpagemeta: false
 ---
@@ -13,7 +15,7 @@ I'm an official greeter of folks at our local [Hack Night](https://nolahacknight
 
 In prior lives I:
 <ul>
-<li>studied Physics and Computer Science at University of New Orleans </li>
+<li>studied Physics and Computer Science at University of New Orleans</li>
 <li>researched anti-viral peptides for the flu</li>
 <li>ran a few retail textbook stores</li>
 </ul>

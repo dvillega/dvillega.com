@@ -3,7 +3,7 @@
 baseurl = "https://dvillega.com/" 
 builddrafts = false
 canonifyurls = false
-languageCode = "en-US"
+# languageCode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
