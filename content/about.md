@@ -20,6 +20,6 @@ In prior lives I:
 <li>ran a few retail textbook stores</li>
 </ul>
 
-Huge fan of whisky (Islay please), Manchester United, and metal.
+Huge fan of [whisky](http://www.laphroaig.com/), [Manchester United](https://twitter.com/manutd), and [metal](https://www.youtube.com/watch?v=-BG1Ng2pU-8).
 
-Not a fan of potholes, assholes, or own goals.
+Not a fan of potholes, assholes, or [own goals](https://en.wikipedia.org/wiki/Own_goal).
